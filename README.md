@@ -1,2 +1,3 @@
 # 405FinalProject
-Final Project for 405
+
+Design and implement your own object oriented model.
